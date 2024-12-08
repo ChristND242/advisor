@@ -1,0 +1,11 @@
+[theme]
+base = "dark",
+
+[browser]
+gatherUsageStats = false  # Disable usage statistics
+
+[server]
+enableXsrfProtection = false  # Disable Cross-Site Request Forgery Protection
+
+[ui]
+hide_streamlit_branding = true  # Hide the "Made with Streamlit" footer
