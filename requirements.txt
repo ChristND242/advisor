@@ -1,3 +1,4 @@
 Requests==2.32.3
 streamlit==1.38.0
-Pillow==9.2.0
+Pillow==9.2.0 --only-binary :all:
+
