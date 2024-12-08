@@ -1,0 +1,2 @@
+streamlit==1.24.0  # Ensure Streamlit is installed for the app
+requests==2.31.0   # Used for making HTTP requests (e.g., for external APIs like Panopticlick)
